@@ -61,7 +61,7 @@
         animateOut: 'fadeOut',
         animateIn: 'fadeIn',
         items: 1,
-        smartSpeed: 300,
+        smartSpeed: 200,
         dots: false,
         loop: true,
         nav : true,
